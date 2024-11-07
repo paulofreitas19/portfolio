@@ -17,12 +17,14 @@ body{
     padding: 30px;
 }
 
+
 .cartao{
     background-color: #070d12;
     width: 370px;
-    border: 2px solid #c5c5c5;
+    border: 3px solid #1699e7;
     border-radius: 10px;
     overflow: hidden;
+    box-shadow: #fdacf2 0px 8px 24px;
 }
 
 .cartao .minhas-informacoes{
@@ -47,6 +49,7 @@ body{
 .cartao .minhas-informacoes .cargo{
     font-size: 20px;
     color: #b8bbc5;
+    margin-bottom: 24px;
 }
 
 .cartao .conteudo{
@@ -99,7 +102,7 @@ body{
 }
 
 .informacao .sobre-mim{
-    font-size: 20px;
+    font-size: 18px;
     text-align: justify;
     max-height: 180px;
     overflow-y: auto;
