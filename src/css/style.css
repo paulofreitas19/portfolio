@@ -1,7 +1,7 @@
 body{
     background-image: url(../img/fundo-futuro.gif);
-    backdrop-filter: blur(6px) brightness(0.8); /* Ajuste o valor para o nível de desfoque desejado */
-  -webkit-backdrop-filter: blur(6px) brightness(0.8); /* Suporte para navegadores baseados em WebKit */
+    backdrop-filter: blur(6px) brightness(0.6); /* Ajuste o valor para o nível de desfoque desejado */
+  -webkit-backdrop-filter: blur(6px) brightness(0.6); /* Suporte para navegadores baseados em WebKit */
   background-color: rgba(127, 165, 255, 0.9); /* Ajuste a cor e a opacidade do fundo */
     background-repeat: no-repeat;
     background-size: cover;
